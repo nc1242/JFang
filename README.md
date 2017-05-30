@@ -8,6 +8,9 @@ Please install Python 2.7 along with an IDE to open and run python files. An alt
 ## Your Task
 I have given you a template for an NCS file. Unfortunately the file is not formatted correctly to our standards and we need you to write this program to fix it. 
 
+##Running the program
+Run it from command line using "python print.py testfile"
+
 ### Part 1
 Modify the print statement to print out the contents of the file
 
